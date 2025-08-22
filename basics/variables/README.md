@@ -13,29 +13,29 @@ This folder contains **Python practice exercises** focused on **variables**, cat
 
 ---
 
-## 📂 Folder Structure  
+## 📂 Folder Structure 
+``` 
 variables/
 │
 ├── easy/
-│ ├── 01_basic_assignment.py
-│ ├── 02_swap.py
-│ ├── 03_area_rectangle.py
-│ └── 04_datatypes.py
+│   ├── 01_basic_assignment.py
+│   ├── 02_swap.py
+│   ├── 03_area_rectangle.py
+│   └── 04_datatypes.py
 │
 ├── medium/
-│ ├── 01_calculator.py
-│ ├── 02_temp_converter.py
-│ ├── 03_compound_interest.py
-│ └── 04_formatted_string.py
+│   ├── 01_calculator.py
+│   ├── 02_temp_converter.py
+│   ├── 03_compound_interest.py
+│   └── 04_formatted_string.py
 │
 └── difficult/
-├── 01_grade_calculator.py
-├── 02_salary_calculator.py
-├── 03_bank_account.py
-└── 04_shopping_cart.py
+    ├── 01_grade_calculator.py
+    ├── 02_salary_calculator.py
+    ├── 03_bank_account.py
+    └── 04_shopping_cart.py
 
-
-
+```
 ---
 
 ## 🟢 Easy (Beginner)  
