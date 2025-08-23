@@ -27,7 +27,7 @@ variables/
 │   ├── 01_calculator.py
 │   ├── 02_temp_converter.py
 │   ├── 03_compound_interest.py
-│   └── 04_formatted_string.py
+│   └── 04_EMI_calculator.py
 │
 └── difficult/
     ├── 01_grade_calculator.py
