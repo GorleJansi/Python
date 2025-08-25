@@ -1,7 +1,7 @@
 sentence = "apple orange apple banana orange apple"
-words = sentence.split()
+words = sentence.split()          # split() with no arguments splits on any whitespace ['apple','orange','apple','banana','orange','apple']
 
-freq = {}
+freq = {}                         # Creates an empty dictionary to hold word → count mappings.
 for w in words:
     if w in freq:
         freq[w] += 1
