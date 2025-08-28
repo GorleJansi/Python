@@ -4,8 +4,10 @@
 # F(n) = F(n-1) + F(n-2)   for n > 1
 # 0,1,1,2,3,5,8,13,21,34,...
 
-n = 7
-a, b = 0, 1
-for _ in range(n):
+n = 10  # how many numbers you want
+a, b = 0, 1   # first two numbers
+
+print("Fibonacci sequence:")
+for i in range(n):
     print(a, end=" ")
-    a, b = b, a+b
+    a, b = b, a + b
