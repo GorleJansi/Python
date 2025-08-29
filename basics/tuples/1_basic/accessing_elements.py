@@ -1,0 +1,17 @@
+# Q: How do you access tuple elements?
+
+t1 = (10, 20, 30, 40)
+t2=(1,"a",1.5,True,[2,3],(4,5))
+print("------------")
+print("accesing elemnts")
+print(f"first element : {t1[0]}")
+print(f"last element : {t1[-1]}")
+print("------------")
+print("accesing elemnts inside lists,tuple")
+print(t2[4])
+print(t2[4][0])
+print(t2[4][1])
+print(t2[5])
+print(t2[5][0])
+print(t2[5][1])
+print("------------")
