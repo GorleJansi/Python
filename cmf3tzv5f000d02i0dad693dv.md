@@ -3,6 +3,7 @@ title: "🚀 Getting Started with Python: My Beginner Notes"
 datePublished: Wed Sep 03 2025 10:25:25 GMT+0000 (Coordinated Universal Time)
 cuid: cmf3tzv5f000d02i0dad693dv
 slug: python-my-beginner-notes
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/MNd-Rka1o0Q/upload/77c88b192f496f424676a67e30b95c1c.jpeg
 tags: python, devops, scripting, devsecops, devops-articles, devops-journey, devopscommunity
 
 ---
