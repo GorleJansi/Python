@@ -6,5 +6,3 @@ squares=tuple(x**2 for x in t )
 #  tuple consume generator(one time use) and create a tuple
 print(squares)
 
-x=(1)
-print(x)
