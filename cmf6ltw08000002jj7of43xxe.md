@@ -2,7 +2,7 @@
 title: "🖥️ What Happens When You Open Google.com? (A Hands-on Guide with Linux)"
 datePublished: Fri Sep 05 2025 09:00:08 GMT+0000 (Coordinated Universal Time)
 cuid: cmf6ltw08000002jj7of43xxe
-slug: what-happens-when-you-open-googlecom-a-hands-on-guide-with-linux
+slug: dns
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757053953202/0149f270-e978-4011-9743-b597b006426d.png
 tags: linux, devops, linux-for-beginners, devops-articles, linux-commands, devops-trends, devopscommunity
 
