@@ -8,7 +8,7 @@ tags: linux, devops, sre, package-management, package-manager, linux-for-beginne
 
 ---
 
-Ever wondered what happens when you type:
+**Ever wondered what happens when you type:**
 
 ```bash
 sudo apt install nginx
